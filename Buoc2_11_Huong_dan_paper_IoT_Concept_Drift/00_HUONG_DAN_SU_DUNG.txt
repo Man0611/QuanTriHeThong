@@ -1,0 +1,8 @@
+11 FILE WORD HƯỚNG DẪN ĐỌC PAPER
+
+Các file phân biệt [GỐC], [MINH HỌA], [ĐỀ XUẤT], [CHƯA XÁC MINH].
+Ví dụ bằng tay và pseudocode là hướng dẫn độc lập, không phải mã giả gốc.
+Nội dung paywall và cấu hình máy không được suy đoán.
+Các repository được tìm thấy được dẫn trực tiếp trong từng file. Không đóng gói code của tác giả vì môi trường tải GitHub không cho phép tải về; mở link GitHub để lấy bản chính thức.
+
+Gợi ý bắt đầu: 09 SCAR → 10 Drift benchmark → 07 AdapAD → 05 ADDAEIL → 02 FADES → 01 CASSIDY → 11 workload.
